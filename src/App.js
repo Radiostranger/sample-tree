@@ -7,7 +7,7 @@ import Footer from './Footer';
 
 function App() {
   return (
-    <div>
+    <div id="all">
     <ProfileImg />
     {/* <Alerts /> */}
     <a href="twitter.com" id="twitter">Twitter Link</a>

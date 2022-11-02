@@ -61,3 +61,7 @@ align-self: stretch;
 flex-grow: 0;
 padding-left: 500px;
 }
+
+#all{
+    padding-left: 120px;
+}
