@@ -11,7 +11,7 @@ flex-direction: row;
 justify-content: center;
 align-items: center;
 /* padding: 24px 32px; */
-padding-top: 24px;
+/* padding-top: 24px; */
 gap: 8px;
 
 width: 1152px;
@@ -33,6 +33,8 @@ flex-grow: 1;
 margin: 20px;
 text-decoration-line: none;
 text-decoration: none;
+color: black;
+font-size: 18px;
 }
 
 #socials{
@@ -45,7 +47,7 @@ display: flex;
 /* flex-direction: column; */
 align-items: center;
 padding: 24px 0px;
-gap: 64px;
+gap: 60px;
 
 width: 1216px;
 height: 72px;
@@ -60,7 +62,7 @@ flex: none;
 order: 1;
 align-self: stretch;
 flex-grow: 0;
-padding-left: 500px;
+padding-left: 550px;
 }
 
 #all{
